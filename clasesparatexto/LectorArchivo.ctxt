@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LectorArchivo
+comment0.text=\r\n\ Algoritmo\ para\ leer\ un\ archivo\:\r\n1.Declarar\ una\ variable\ de\ tipo\ File;\r\n2.Declarar\ una\ variable\ de\ tipo\ FileReader;\r\n3.Declarar\ una\ variable\ de\ tipo\ String;\r\n4.Preparar\ el\ archivo\r\n5.Crear\ una\ instancia\ de\ tipo\ FileReader(lector)\r\n6.Crear\ una\ instancia\ de\ tipo\ BufferReader\r\n7.Inicializar\ la\ variable\ de\ tipo\ cadena\ en\ nada\r\n8.Crear\ un\ ciclo\ que\ se\ repita\ muchas\ veces\ mientras\ la\ variable\ de\ tipo\r\ncadena\ sea\ diferente\ de\ nada.\r\n\ \ 8.1.\ Asignar\ a\ la\ variable\ de\ tipo\ cadena\ buffer.readLine();\r\n\ \ 8.2.\ Si\ la\ variable\ de\ tipo\ cadena\ es\ diferente\ de\ null\ muestras\ el\ contenido.\r\n9.Cerrar\ el\ buffer.\r\n10.Cerrar\ el\ lector.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

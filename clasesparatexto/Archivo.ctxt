@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=
+comment1.target=Archivo()
+comment2.params=Direcci\u00F3nyNombre
+comment2.target=void\ Crear(java.lang.String)
+comment3.params=
+comment3.target=boolean\ Existencia()
+comment4.params=
+comment4.target=void\ CrearyEscribir()
+comment5.params=
+comment5.target=void\ Leer()
+numComments=6
